@@ -1,0 +1,25 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description": " Call an external api using node js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "rest",
+    "Chiranjivi",
+    "Majhi",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Chiranjivi Majhi",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
